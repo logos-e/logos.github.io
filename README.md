@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>Xina's Website</title>
+<title>Logos Watermelon</title>
 </head>
 <body>
     <h1>Logos Website</h1>
