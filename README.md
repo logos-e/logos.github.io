@@ -6,7 +6,7 @@
 </head>
 <body>
     <h1>Logos Website</h1>
-    <p>To play the game, click <a href="htttps://www.google.com">here</a></p>
+    <p>click <a href="htttps://www.google.com">here</a> to play the game</p>
     <p>For personal and academic use only,<a href="https://github.com/liyupi/daxigua.git">liyupi/daxigua</a></p>
 </body>
 </html>
